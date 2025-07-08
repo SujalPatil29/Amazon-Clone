@@ -165,6 +165,8 @@ span {
     font-size: 0.85rem;
     width: 80%;
     margin-bottom: 25px;
+    padding: 0 10px;
+    text-align: center;
 }
 
 .hero-msg a {
