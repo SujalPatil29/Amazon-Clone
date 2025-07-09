@@ -273,3 +273,14 @@ ul a {
 .copyright {
     padding-top: 5px;
 }
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        height: auto;
+    }
+    .nav-search {
+        width: 90%;
+        margin-top: 10px;
+    }
+}
